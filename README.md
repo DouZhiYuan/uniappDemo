@@ -16,6 +16,6 @@
 ├─App.vue               应用配置，用来配置App全局样式以及监听 应用生命周期
 ├─manifest.json         配置应用名称、appid、logo、版本等打包信息，详见
 └─pages.json            配置页面路由、导航条、选项卡等页面类信息，详见
-```  
+```
 
-具体可参照 [uniapp小程序开发的超长实践总结](https://juejin.cn/post/7020680215009427470?utm_source=gold_browser_extension)
+具体可参照 [uniapp 小程序开发的超长实践总结](https://juejin.cn/post/7020680215009427470?utm_source=gold_browser_extension)
