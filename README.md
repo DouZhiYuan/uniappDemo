@@ -1,5 +1,4 @@
 # uniappDemo
-
 ┌─components            符合vue组件规范的uni-app组件目录
 ├─pages                 业务页面文件存放的目录
 │  ├─index
@@ -16,5 +15,4 @@
 ├─manifest.json         配置应用名称、appid、logo、版本等打包信息，详见
 └─pages.json            配置页面路由、导航条、选项卡等页面类信息，详见
     
-
-	具体可参照 [](https://juejin.cn/post/7020680215009427470?utm_source=gold_browser_extension)
+具体可参照 [](https://juejin.cn/post/7020680215009427470?utm_source=gold_browser_extension)
