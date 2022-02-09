@@ -1,0 +1,1 @@
+<view class="content"><image class="logo" src="/static/logo.png"></image><view class="text-area"><text class="title">{{title}}</text></view><view class="wrap">this is my project</view><view class="storeStr">{{'这是持久化store思想:'+storeStr+''}}</view></view>
